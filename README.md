@@ -5,18 +5,7 @@
 
 ---
 
-<!-- Icon Row: Personality & Tech -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-Magic-blueviolet?style=for-the-badge&logo=codeforces">
-  <img src="https://img.shields.io/badge/Open%20Source%20-%20Lover-22c55e?style=for-the-badge&logo=github">
-  <img src="https://img.shields.io/badge/Cloud%20Native%20-%20Always%20On-0099ff?style=for-the-badge&logo=amazonaws">
-  <img src="https://img.shields.io/badge/AI%2FML%20-%20Explorer-f9a825?style=for-the-badge&logo=python">
-  <img src="https://img.shields.io/badge/DevOps%20-%20Automator-ff3860?style=for-the-badge&logo=docker">
-</p>
-
----
-
-## 💎 About Me
+## 💎 About Me  
 
 <div align="center">
 
@@ -24,16 +13,16 @@
 <tr>
 <td valign="top" width="50%">
 <ul>
-  <li>🌌 <b>Fascinated by Real-Time Systems</b>: I love building apps that react instantly—think live dashboards, chats, and streaming!</li>
-  <li>🧬 <b>Architectural Alchemist</b>: TypeScript-first microservices, modular APIs (REST, GraphQL, WebSockets), and serverless magic.</li>
-  <li>⚡ <b>Performance Obsessed</b>: Caching, event streaming, indexing, and deep observability.</li>
+  <li>⚡ <b>Full Stack Specialist</b>: From UI/UX to backend, APIs to cloud infra.</li>
+  <li>🌌 <b>Cloud-Native Enthusiast</b>: AWS, Docker, Kubernetes, Terraform.</li>
+  <li>🧠 <b>AI/ML Explorer</b>: TensorFlow, PyTorch, OpenAI.</li>
 </ul>
 </td>
 <td valign="top" width="50%">
 <ul>
-  <li>☁️ <b>Cloud-Native Everything</b>: Docker, Kubernetes, AWS, Terraform, and CI/CD wizardry.</li>
-  <li>🤖 <b>AI/ML Explorer</b>: Building smart bots, dynamic recommendations, and data-driven features.</li>
-  <li>🌀 <b>DevOps Automator</b>: Automated pipelines, infrastructure as code, and frictionless releases.</li>
+  <li>🛠️ <b>DevOps Automator</b>: CI/CD pipelines, infra as code, observability.</li>
+  <li>🚀 <b>Performance Obsessed</b>: Real-time systems, caching, microservices.</li>
+  <li>💬 <b>Open Source</b>: Passionate about sharing, docs, tooling.</li>
 </ul>
 </td>
 </tr>
@@ -42,10 +31,12 @@
 
 ---
 
-## 🦄 Unique Skills & Tech Stack
+## 🦄 Tech Stack & Skills  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,python,cplusplus,nodejs,react,nextjs,redux,tailwind,docker,kubernetes,aws,graphql,mongodb,postgres,redis,nginx,githubactions,jenkins,linux,fastapi,pytorch,tensorflow,spring,hibernate,kafka,rabbitmq,elastic,socketio,jwt,oauth,ansible,supertest,jest,sequelize,openai" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,cpp,react,nextjs,nodejs,express,spring,fastapi,redux,tailwind" /><br/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,linux,nginx,githubactions,jenkins,postgres,mongodb,redis,elasticsearch,dynamodb" /><br/>
+  <img src="https://skillicons.dev/icons?i=kafka,rabbitmq,graphql,tensorflow,pytorch,openai,git,vscode,idea" />
 </p>
 
 <div align="center">
@@ -55,23 +46,23 @@
 <td width="33%" valign="top">
 
 ### 🔥 Programming  
-- Java, JavaScript, TypeScript, Python, C++
-- Spring Boot 3, Spring Data JPA, Spring Security, Hibernate
+- Java, JavaScript, TypeScript, Python, C++  
+- Spring Boot, Express.js, FastAPI, Node.js  
 
 </td>
 <td width="33%" valign="top">
 
 ### ⚡ Web & APIs  
-- React.js, Next.js, Redux Toolkit, Tailwind CSS, TanStack Query, shadcn/ui  
-- Express.js, FastAPI, GraphQL, WebSockets, REST, Socket.IO, Swagger/OpenAPI
+- React.js, Next.js, Redux Toolkit, Tailwind CSS  
+- REST, GraphQL, WebSockets, Socket.IO  
 
 </td>
 <td width="33%" valign="top">
 
 ### ☁️ Cloud & DevOps  
-- AWS (EC2, S3, Lambda, Elastic Beanstalk, DynamoDB, SQS/SNS), Docker, Kubernetes, Terraform  
-- GitHub Actions, Jenkins, Ansible  
-- Prometheus, Grafana, ELK, OpenTelemetry, NGINX
+- AWS (EC2, S3, Lambda, DynamoDB, SQS/SNS)  
+- Docker, Kubernetes, Terraform  
+- GitHub Actions, Jenkins, Ansible, NGINX  
 
 </td>
 </tr>
@@ -79,16 +70,15 @@
 <td width="33%" valign="top">
 
 ### 🗄️ Databases  
-- MongoDB, PostgreSQL, MySQL, Redis (Caching, Retry Queues)  
-- DynamoDB, Elasticsearch
+- PostgreSQL, MySQL, MongoDB, Redis  
+- DynamoDB, Elasticsearch  
 
 </td>
 <td width="33%" valign="top">
 
-### 🧠 AI & Data  
-- TensorFlow, PyTorch, scikit-learn, TensorFlow.js  
-- NumPy, Pandas, Matplotlib, Seaborn  
-- Basic AI/ML features, Python-based anomaly detection, OpenAI API (experimental/basic use)
+### 🧠 AI & ML  
+- TensorFlow, PyTorch, scikit-learn, OpenAI API  
+- ML pipelines, anomaly detection, recommender systems  
 
 </td>
 <td width="33%" valign="top">
@@ -96,7 +86,7 @@
 ### 🛡️ Methodologies  
 - Microservices & Serverless  
 - Modular/Event-Driven Design  
-- TDD, Pair Programming, Agile/Scrum
+- TDD, Agile/Scrum, Pair Programming  
 
 </td>
 </tr>
@@ -104,19 +94,19 @@
 <td width="33%" valign="top">
 
 ### 📨 Messaging & Streaming  
-- Apache Kafka, RabbitMQ, AWS SQS/SNS
+- Apache Kafka, RabbitMQ, AWS SQS/SNS  
 
 </td>
 <td width="33%" valign="top">
 
 ### 🧪 Testing & QA  
-- Jest, Supertest, JUnit, Mockito
+- Jest, Supertest, JUnit, Mockito  
 
 </td>
 <td width="33%" valign="top">
 
 ### 🛠️ Tooling  
-- Git, GitHub, IntelliJ IDEA, VS Code, Jira, Postman
+- Git, GitHub, IntelliJ IDEA, VS Code, Jira, Postman  
 
 </td>
 </tr>
@@ -126,19 +116,19 @@
 
 ---
 
-## 🎨 What I Love to Build
+## 🎨 What I Love to Build  
 
 <div align="center">
 
 | 🚀 Real-Time Systems | ☁️ Scalable APIs | 🧬 Cloud Automation | 🤖 AI-Powered Features | 🛠️ Developer Tooling |
 |:---:|:---:|:---:|:---:|:---:|
-| Live dashboards, chat apps, notifications | REST, GraphQL, WebSockets | CI/CD, infra-as-code, safe releases | Bots, recommendations, smart analytics | Templates, CLI tools, docs generators |
+| Live dashboards, chat apps, notifications | REST, GraphQL, WebSockets | CI/CD, infra-as-code | Bots, recommendations, analytics | Templates, CLI tools, docs generators |
 
 </div>
 
 ---
 
-## 🏅 Certifications & Badges
+## 🏅 Certifications & Badges  
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-yellow?logo=amazonaws&style=for-the-badge">
@@ -149,7 +139,7 @@
 
 ---
 
-## 🌐 Connect & Collaborate
+## 🌐 Connect & Collaborate  
 
 <p align="center">
   <a href="https://linkedin.com/in/ananth-surampudi"><img src="https://img.shields.io/badge/LinkedIn-AnanthSurampudi-blue?style=for-the-badge&logo=linkedin"></a>
@@ -158,7 +148,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=S-Ananth7&show_icons=true&hide_title=true&theme=tokyonight" />
@@ -172,7 +162,7 @@
 
 ---
 
-<!-- Ultra-Fun Footer -->
+<!-- Footer -->
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-GitHub%20Copilot-10cfc9?style=for-the-badge&logo=github" />
   <br>
