@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**S-Ananth7/S-Ananth7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+````markdown name=README.md
 <!-- Ultra-Stylish Animated Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=34&pause=1000&color=0ED8F7&width=720&lines=%F0%9F%91%8B+Hey,+I'm+Ananth+Surampudi!;%F0%9F%92%BB+Full-Stack+Engineer+%7C+Cloud+%7C+AI/ML+Innovator;%F0%9F%9A%80+Shaping+the+Future+with+Tech+%F0%9F%9A%80" alt="Typing SVG" />
@@ -51,7 +46,7 @@ Here are some ideas to get you started:
 ## 🦄 Unique Skills & Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,python,cplusplus,nodejs,react,nextjs,redux,tailwind,docker,kubernetes,aws,graphql,mongodb,postgres,redis,nginx,githubactions,jenkins,linux,fastapi,pytorch,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,cplusplus,nodejs,react,nextjs,redux,tailwind,docker,kubernetes,aws,graphql,mongodb,postgres,redis,nginx,githubactions,jenkins,linux,fastapi,pytorch,tensorflow,spring,hibernate,kafka,rabbitmq,elastic,socketio,jwt,oauth,ansible,supertest,jest,sequelize,openai" />
 </p>
 
 <div align="center">
@@ -62,21 +57,22 @@ Here are some ideas to get you started:
 
 ### 🔥 Programming  
 - Java, JavaScript, TypeScript, Python, C++
+- Spring Boot 3, Spring Data JPA, Spring Security, Hibernate
 
 </td>
 <td width="33%" valign="top">
 
 ### ⚡ Web & APIs  
-- React.js, Next.js, Redux Toolkit, Tailwind CSS  
-- Express.js, FastAPI, GraphQL, WebSockets, REST
+- React.js, Next.js, Redux Toolkit, Tailwind CSS, TanStack Query, shadcn/ui  
+- Express.js, FastAPI, GraphQL, WebSockets, REST, Socket.IO, Swagger/OpenAPI
 
 </td>
 <td width="33%" valign="top">
 
 ### ☁️ Cloud & DevOps  
-- AWS, Docker, Kubernetes, Terraform  
+- AWS (EC2, S3, Lambda, Elastic Beanstalk, DynamoDB, SQS/SNS), Docker, Kubernetes, Terraform  
 - GitHub Actions, Jenkins, Ansible  
-- Prometheus, Grafana, ELK, OpenTelemetry
+- Prometheus, Grafana, ELK, OpenTelemetry, NGINX
 
 </td>
 </tr>
@@ -84,15 +80,16 @@ Here are some ideas to get you started:
 <td width="33%" valign="top">
 
 ### 🗄️ Databases  
-- MongoDB, PostgreSQL, MySQL, Redis  
+- MongoDB, PostgreSQL, MySQL, Redis (Caching, Retry Queues)  
 - DynamoDB, Elasticsearch
 
 </td>
 <td width="33%" valign="top">
 
 ### 🧠 AI & Data  
-- TensorFlow, PyTorch, scikit-learn  
-- NumPy, Pandas, Matplotlib, Seaborn
+- TensorFlow, PyTorch, scikit-learn, TensorFlow.js  
+- NumPy, Pandas, Matplotlib, Seaborn  
+- Basic AI/ML features, Python-based anomaly detection, OpenAI API (experimental/basic use)
 
 </td>
 <td width="33%" valign="top">
@@ -101,6 +98,26 @@ Here are some ideas to get you started:
 - Microservices & Serverless  
 - Modular/Event-Driven Design  
 - TDD, Pair Programming, Agile/Scrum
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+### 📨 Messaging & Streaming  
+- Apache Kafka, RabbitMQ, AWS SQS/SNS
+
+</td>
+<td width="33%" valign="top">
+
+### 🧪 Testing & QA  
+- Jest, Supertest, JUnit, Mockito
+
+</td>
+<td width="33%" valign="top">
+
+### 🛠️ Tooling  
+- Git, GitHub, IntelliJ IDEA, VS Code, Jira, Postman
 
 </td>
 </tr>
@@ -126,8 +143,9 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-yellow?logo=amazonaws&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Coursera-Python%20Basics-blue?logo=coursera&style=for-the-badge">
   <img src="https://img.shields.io/badge/NPTEL-Soft%20Skills-green?logo=nptel&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Accenture-Digital%20Skills%20for%20Work%20and%20Life-ffb700?logo=accenture&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Coursera-Python%20Basics-blue?logo=coursera&style=for-the-badge">
 </p>
 
 ---
@@ -161,12 +179,4 @@ Here are some ideas to get you started:
   <br>
   <b>“Innovate. Automate. Scale. Repeat.”</b>
 </p>
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+````
