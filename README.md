@@ -1,4 +1,3 @@
-````markdown name=README.md
 <!-- Ultra-Stylish Animated Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=34&pause=1000&color=0ED8F7&width=720&lines=%F0%9F%91%8B+Hey,+I'm+Ananth+Surampudi!;%F0%9F%92%BB+Full-Stack+Engineer+%7C+Cloud+%7C+AI/ML+Innovator;%F0%9F%9A%80+Shaping+the+Future+with+Tech+%F0%9F%9A%80" alt="Typing SVG" />
@@ -179,4 +178,3 @@
   <br>
   <b>“Innovate. Automate. Scale. Repeat.”</b>
 </p>
-````
